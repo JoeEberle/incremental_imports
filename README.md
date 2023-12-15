@@ -1,23 +1,22 @@
-# File Removal - Easily remove files you dont want 
+# Incremental Imports - Update the latest files you need
 
 ![solution code Logo](code.png)
 
 ## Description
 
-FilFile Removal - Easily remove files you dont want 
+Incremental Imports  - Update the latest files you need 
 
 ![Developer Logo](developer.png)
 
 
 ## Features
 
-- copies files
-- moves files
-- delete files
+- imports data based upon a sepcific date
+- removes duplicate records
 
 ## Getting Started
 
-To get started with the **Talking Code** project, follow these steps:
+To get started with the **Incremental Imports ** project, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Install the required dependencies listed at the top of the notebook.
