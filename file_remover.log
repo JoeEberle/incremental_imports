@@ -1,5 +1,5 @@
-2023-12-16 10:48:31,983 - INFO - START file_remover =============================================
-2023-12-16 10:48:31,983 - INFO - START file_remover Start Time = 2023-12-16 10:48:31
-2023-12-16 10:48:31,984 - INFO - file_remover Step 0 - Initialize the configuration file parser
-2023-12-16 10:48:39,030 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\josep\\anaconda3\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
-2023-12-16 10:48:39,030 - INFO - Using writeable comtypes cache directory: 'C:\Users\josep\anaconda3\lib\site-packages\comtypes\gen'
+2023-12-22 09:23:23,218 - INFO - START file_remover =============================================
+2023-12-22 09:23:23,218 - INFO - START file_remover Start Time = 2023-12-22 09:23:23
+2023-12-22 09:23:23,219 - INFO - file_remover Step 0 - Initialize the configuration file parser
+2023-12-22 09:23:44,663 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\josep\\anaconda3\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2023-12-22 09:23:44,664 - INFO - Using writeable comtypes cache directory: 'C:\Users\josep\anaconda3\lib\site-packages\comtypes\gen'
