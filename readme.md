@@ -46,4 +46,7 @@ To get started with the **Incremental Imports** solution repository, follow thes
 ![Developer](developer.png)
 
 ![Brand](brand.png)
-    ## Deliverables or Figures![additional_image](file_manager.png)  <br>![additional_image](incremental_imports.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
+    
+## Deliverables or Figures
+ ![additional_image](file_manager.png)  <br>![additional_image](incremental_imports.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
+    
