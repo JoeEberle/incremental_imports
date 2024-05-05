@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Incremental Imports - Solution for Incremental Imports
 Solution for Incremental Imports
 
@@ -9,8 +11,6 @@ Welcome to the solution **Incremental Imports** - an example for your projects
 Solution for Incremental Imports
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
