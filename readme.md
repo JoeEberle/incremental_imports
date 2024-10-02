@@ -1,14 +1,14 @@
 
 ![Image image_filename](solution_sign.png)
 
-# Incremental Imports - Step 0 - Process End - display log
-Step 0 - Process End - display log
+# Incremental Imports - incremental_imports
+incremental_imports
 
 ![Image image_filename](code.png)
 
 Welcome to the solution **Incremental Imports** - an example for your projects
 
-Step 0 - Process End - display log
+incremental_imports
 
 ![Image image_filename](sample.png)
 
