@@ -39,11 +39,8 @@ To get started with the **Incremental Imports** solution repository, follow thes
  ![additional_image](file_manager.png)  <br>![additional_image](incremental_imports.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
